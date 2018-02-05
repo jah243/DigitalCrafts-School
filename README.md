@@ -1,2 +1,2 @@
 # DigitalCrafts-School
-Exercises assigned by DigitalCrafts coding bootcamp
+Exercises assigned by DigitalCrafts coding bootcamp.
